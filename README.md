@@ -1,8 +1,11 @@
 ### Olá, me chamo Alairton! ✨
 
-- 🎓 Graduando em Sistemas e Mídias Digitais 
+- 🎓 Graduando em Sistemas e Mídias Digitais na UFC
+  * Voluntário na Célula Multimídia, estudando conceitos de Interação-Humano-Computador e UX Design.
+  * Bolsista de Iniciação Acadêmica na PRAE
+  * Diretor de Comunicação no CASMD
 - 📚 Estudando Desenvolvimento Front-end
-- 😄 Pronouns: ele/dele
+- ❤ Games, livros e tecnologia.
 
 <div align="center">
   <a href="https://github.com/alairton-junior">
