@@ -1,6 +1,6 @@
 ## Hi, I'm Alairton! ✨ FullStack Developer
 
-- 💻 Software Development Intern at Banco do Nordeste
+- 💻 Software Development Intern at Banco do Nordeste do Brazil
 - 🎓 Undergraduate student in Digital Media Systems at UFC (Federal University of Ceará)
 - 🔬 Researcher in HCI and UX at Célula Multimídia
 
